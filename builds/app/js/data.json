@@ -1,0 +1,26 @@
+[
+  {
+    "petName": "Spot",
+    "ownerName": "Billy",
+    "aptDate": "2016-06-20 15:30",
+    "aptNotes": "This Beagle sleeps a lot."
+  },
+  {
+    "petName": "Fluffy",
+    "ownerName": "Claire",
+    "aptDate": "2016-06-24 08:30",
+    "aptNotes": "This cat gets frightened easily."
+  },
+  {
+    "petName": "Fishie",
+    "ownerName": "Johnny",
+    "aptDate": "2016-06-22 15:50",
+    "aptNotes": "This Goldfish overeats."
+  },
+  {
+    "petName": "Socks",
+    "ownerName": "Cindy",
+    "aptDate": "2016-06-21 9:15",
+    "aptNotes": "Cat drinks too much water."
+  }
+]
